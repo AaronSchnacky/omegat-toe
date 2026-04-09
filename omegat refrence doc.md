@@ -1,4 +1,4 @@
-# Ω(t) Master Reference Document
+# Ω(t) Unified Theoretical Framework Master Reference Document
 
 ---
 
